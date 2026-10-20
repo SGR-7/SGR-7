@@ -1,4 +1,4 @@
-# Sagar Pendem | Data, Code & Insights 👋
+# Hi 👋, I'm Sagar Pendem | Aspiring Data Analyst
 
 Welcome to my GitHub!
 
