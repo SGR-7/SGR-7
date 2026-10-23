@@ -4,8 +4,6 @@ Welcome to my GitHub!
 
 I enjoy working at the intersection of data, technology, and problem-solving. From exploring datasets with Python to querying databases with MySQL and building interactive visualizations with Power BI, I'm interested in how raw information can become something useful.
 
-My technical toolkit also includes Pandas, NumPy, Microsoft Excel, HTML5, and CSS3.
-
 ---
 
 ##  🛠️Tech Stack
@@ -19,7 +17,6 @@ My technical toolkit also includes Pandas, NumPy, Microsoft Excel, HTML5, and CS
 - **Exploring data:** Finding patterns, relationships, and interesting details in datasets.
 - **Working with code:** Using Python and SQL to manipulate, query, and understand information.
 - **Visualizing insights:** Turning data into clear, meaningful charts and dashboards.
-- **Building with technology:** Using web technologies to create clean and accessible interfaces.
 
 ---
 
